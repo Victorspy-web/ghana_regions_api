@@ -55,4 +55,3 @@ You can now run the development server
 ```
 
 * python manage.py runserver
-    * `Paste this link in your browser to run local server` http://127.0.0.1:8000
