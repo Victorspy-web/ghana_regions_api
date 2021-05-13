@@ -1,6 +1,6 @@
 # Ghana Regions Names Api
 
-This api is used to list all regions in ghana
+This api is used to get the list of regions in ghana
 
 ## Getting Started
 
