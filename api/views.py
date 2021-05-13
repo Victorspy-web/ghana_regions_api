@@ -12,6 +12,3 @@ class RegionList(APIView):
 		regions = Region.objects.all()
 		serializer = RegionsSerializer(regions, many=True)
 		return Response(serializer.data)
-
-	def post(self):
-		pass
